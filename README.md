@@ -9,3 +9,5 @@ I write rust and stuff.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conradludgate&layout=compact&border_radius=0" height="166" />
   <img src="https://api.atuin.sh/img/conradludgate?token=8670c40339e64ba1ef5d7429abfdce6e8752b08c" height="166" />
 </div>
+
+Find me on <a rel="me" href="https://toot.conrad.cafe/@conrad">Mastodon</a>
